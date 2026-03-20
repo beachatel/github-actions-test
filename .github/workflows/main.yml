@@ -1,6 +1,6 @@
 name: Pull Files from Another Repository on Push
 env:
-  SOURCE_REPO: MaxHalford/bike-sharing-history/data/stations/manchester
+  SOURCE_REPO: MaxHalford/bike-sharing-history
   AUTOMATIC_MONITOR: true
   FILES: "*.geojson" # seperate multiple entries with ,
   FILES_NEW: "*.geojson" # seperate multiple entries with ,
@@ -25,6 +25,7 @@ on: # Remove # below for non default branches
 jobs:
   pull-file:
     runs-on: ubuntu-latest
+    if: github.ref == 'data/stations/manchester'
     steps:
       - name: Check whether to automatically monitor
         if: ${{ github.event_name != 'workflow_dispatch' && env.AUTOMATIC_MONITOR == false }}
