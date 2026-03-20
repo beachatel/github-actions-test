@@ -1,0 +1,2349 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    17.252666,
+                    49.591898
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Doln\u00ed n\u00e1m\u011bst\u00ed II",
+                "num_bikes_available": 3,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=111084753",
+                    "ios": "https://app.nextbike.net/station?id=111084753",
+                    "web": "https://nxtb.it/p/111084753"
+                },
+                "short_name": "472350",
+                "station_id": "111084753",
+                "vehicle_types_available": [
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.23557,
+                    49.597183
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "\u0160iben\u00edk - Lidl",
+                "num_bikes_available": 1,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=112373974",
+                    "ios": "https://app.nextbike.net/station?id=112373974",
+                    "web": "https://nxtb.it/p/112373974"
+                },
+                "short_name": "472351",
+                "station_id": "112373974",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "250"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.238225,
+                    49.587697
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Hn\u011bvot\u00ednsk\u00e1 - nemocnice",
+                "num_bikes_available": 1,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=120948945",
+                    "ios": "https://app.nextbike.net/station?id=120948945",
+                    "web": "https://nxtb.it/p/120948945"
+                },
+                "short_name": "472353",
+                "station_id": "120948945",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.25598,
+                    49.58485
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Rooseveltova - Cobra",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=120950144",
+                    "ios": "https://app.nextbike.net/station?id=120950144",
+                    "web": "https://nxtb.it/p/120950144"
+                },
+                "short_name": "472364",
+                "station_id": "120950144",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.2544,
+                    49.60519
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Urxova",
+                "num_bikes_available": 2,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=120950488",
+                    "ios": "https://app.nextbike.net/station?id=120950488",
+                    "web": "https://nxtb.it/p/120950488"
+                },
+                "short_name": "472368",
+                "station_id": "120950488",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.23463,
+                    49.57812
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "\u010cajkovsk\u00e9ho/Pion\u00fdrsk\u00e1",
+                "num_bikes_available": 2,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=120950826",
+                    "ios": "https://app.nextbike.net/station?id=120950826",
+                    "web": "https://nxtb.it/p/120950826"
+                },
+                "short_name": "472372",
+                "station_id": "120950826",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.25338,
+                    49.5729
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Fisherova II",
+                "num_bikes_available": 2,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=120951154",
+                    "ios": "https://app.nextbike.net/station?id=120951154",
+                    "web": "https://nxtb.it/p/120951154"
+                },
+                "short_name": "472376",
+                "station_id": "120951154",
+                "vehicle_types_available": [
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "250"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.23979,
+                    49.60792
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Jarmily Glazarov\u00e9",
+                "num_bikes_available": 2,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=159195258",
+                    "ios": "https://app.nextbike.net/station?id=159195258",
+                    "web": "https://nxtb.it/p/159195258"
+                },
+                "short_name": "472384",
+                "station_id": "159195258",
+                "vehicle_types_available": [
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.247505,
+                    49.595337
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "N\u00e1m\u011bst\u00ed Hrdin\u016f",
+                "num_bikes_available": 1,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27601907",
+                    "ios": "https://app.nextbike.net/station?id=27601907",
+                    "web": "https://nxtb.it/p/27601907"
+                },
+                "short_name": "47000",
+                "station_id": "27601907",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "250"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.251518,
+                    49.590614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "T\u0159\u00edda Svobody",
+                "num_bikes_available": 1,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27602159",
+                    "ios": "https://app.nextbike.net/station?id=27602159",
+                    "web": "https://nxtb.it/p/27602159"
+                },
+                "short_name": "47001",
+                "station_id": "27602159",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.243519,
+                    49.595775
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Magistr\u00e1t",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27602377",
+                    "ios": "https://app.nextbike.net/station?id=27602377",
+                    "web": "https://nxtb.it/p/27602377"
+                },
+                "short_name": "47003",
+                "station_id": "27602377",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.244244,
+                    49.596672
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Zimn\u00ed stadion",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27602460",
+                    "ios": "https://app.nextbike.net/station?id=27602460",
+                    "web": "https://nxtb.it/p/27602460"
+                },
+                "short_name": "47004",
+                "station_id": "27602460",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.262391,
+                    49.590531
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Pr\u00e1vnick\u00e1 fakulta UPOL",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27602621",
+                    "ios": "https://app.nextbike.net/station?id=27602621",
+                    "web": "https://nxtb.it/p/27602621"
+                },
+                "short_name": "47006",
+                "station_id": "27602621",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.276495,
+                    49.591699
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Krajsk\u00fd \u00fa\u0159ad",
+                "num_bikes_available": 2,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27602768",
+                    "ios": "https://app.nextbike.net/station?id=27602768",
+                    "web": "https://nxtb.it/p/27602768"
+                },
+                "short_name": "47009",
+                "station_id": "27602768",
+                "vehicle_types_available": [
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.277111,
+                    49.5934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Hlavn\u00ed n\u00e1dra\u017e\u00ed - Po\u0161ta",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27602837",
+                    "ios": "https://app.nextbike.net/station?id=27602837",
+                    "web": "https://nxtb.it/p/27602837"
+                },
+                "short_name": "47011",
+                "station_id": "27602837",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.244657,
+                    49.588785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Flora - hlavn\u00ed vstup",
+                "num_bikes_available": 4,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27606045",
+                    "ios": "https://app.nextbike.net/station?id=27606045",
+                    "web": "https://nxtb.it/p/27606045"
+                },
+                "short_name": "47012",
+                "station_id": "27606045",
+                "vehicle_types_available": [
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.230484,
+                    49.574396
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "OC Han\u00e1",
+                "num_bikes_available": 1,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27606135",
+                    "ios": "https://app.nextbike.net/station?id=27606135",
+                    "web": "https://nxtb.it/p/27606135"
+                },
+                "short_name": "47013",
+                "station_id": "27606135",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.25692,
+                    49.58799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "\u0160antovka - hlavn\u00ed vchod (+15 minut na p\u0159\u00edjezd i odjezd)",
+                "num_bikes_available": 9,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27611944",
+                    "ios": "https://app.nextbike.net/station?id=27611944",
+                    "web": "https://nxtb.it/p/27611944"
+                },
+                "short_name": "47014",
+                "station_id": "27611944",
+                "vehicle_types_available": [
+                    {
+                        "count": 6,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 3,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.259135,
+                    49.586726
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "\u0160antovka - bo\u010dn\u00ed vchod (+15 minut na p\u0159\u00edjezd i odjezd)",
+                "num_bikes_available": 7,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27612120",
+                    "ios": "https://app.nextbike.net/station?id=27612120",
+                    "web": "https://nxtb.it/p/27612120"
+                },
+                "short_name": "47015",
+                "station_id": "27612120",
+                "vehicle_types_available": [
+                    {
+                        "count": 4,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 3,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.25696,
+                    49.59597
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Kostel Panny Marie Sn\u011b\u017en\u00e9",
+                "num_bikes_available": 3,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27617316",
+                    "ios": "https://app.nextbike.net/station?id=27617316",
+                    "web": "https://nxtb.it/p/27617316"
+                },
+                "short_name": "47017",
+                "station_id": "27617316",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.265455,
+                    49.594047
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Menza UPOL",
+                "num_bikes_available": 4,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27617646",
+                    "ios": "https://app.nextbike.net/station?id=27617646",
+                    "web": "https://nxtb.it/p/27617646"
+                },
+                "short_name": "47018",
+                "station_id": "27617646",
+                "vehicle_types_available": [
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.263346,
+                    49.592576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "P\u0159\u00edrodov\u011bdeck\u00e1 fakulta - p\u0159edn\u00ed vchod",
+                "num_bikes_available": 3,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27618499",
+                    "ios": "https://app.nextbike.net/station?id=27618499",
+                    "web": "https://nxtb.it/p/27618499"
+                },
+                "short_name": "47021",
+                "station_id": "27618499",
+                "vehicle_types_available": [
+                    {
+                        "count": 3,
+                        "vehicle_type_id": "250"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.250531,
+                    49.595201
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Kostel sv. Mo\u0159ice",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27618826",
+                    "ios": "https://app.nextbike.net/station?id=27618826",
+                    "web": "https://nxtb.it/p/27618826"
+                },
+                "short_name": "47023",
+                "station_id": "27618826",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.244201,
+                    49.599116
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Plaveck\u00fd stadion",
+                "num_bikes_available": 4,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27618967",
+                    "ios": "https://app.nextbike.net/station?id=27618967",
+                    "web": "https://nxtb.it/p/27618967"
+                },
+                "short_name": "47024",
+                "station_id": "27618967",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 3,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.241315,
+                    49.602144
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Ladova - po\u0161ta",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27619039",
+                    "ios": "https://app.nextbike.net/station?id=27619039",
+                    "web": "https://nxtb.it/p/27619039"
+                },
+                "short_name": "47025",
+                "station_id": "27619039",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.223483,
+                    49.600691
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Globus",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27619143",
+                    "ios": "https://app.nextbike.net/station?id=27619143",
+                    "web": "https://nxtb.it/p/27619143"
+                },
+                "short_name": "47026",
+                "station_id": "27619143",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.252714,
+                    49.602488
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Finan\u010dn\u00ed \u00fa\u0159ad",
+                "num_bikes_available": 1,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27619189",
+                    "ios": "https://app.nextbike.net/station?id=27619189",
+                    "web": "https://nxtb.it/p/27619189"
+                },
+                "short_name": "47027",
+                "station_id": "27619189",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "250"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.249581,
+                    49.602384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Sportovn\u00ed hala UP",
+                "num_bikes_available": 3,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27619257",
+                    "ios": "https://app.nextbike.net/station?id=27619257",
+                    "web": "https://nxtb.it/p/27619257"
+                },
+                "short_name": "47029",
+                "station_id": "27619257",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.255386,
+                    49.577287
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Zikova - Albert",
+                "num_bikes_available": 2,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27619509",
+                    "ios": "https://app.nextbike.net/station?id=27619509",
+                    "web": "https://nxtb.it/p/27619509"
+                },
+                "short_name": "47033",
+                "station_id": "27619509",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.291332,
+                    49.598873
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Olpran",
+                "num_bikes_available": 2,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27619741",
+                    "ios": "https://app.nextbike.net/station?id=27619741",
+                    "web": "https://nxtb.it/p/27619741"
+                },
+                "short_name": "47036",
+                "station_id": "27619741",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.251432,
+                    49.553484
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Hospoda na Sokol\u00e1ku",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27628642",
+                    "ios": "https://app.nextbike.net/station?id=27628642",
+                    "web": "https://nxtb.it/p/27628642"
+                },
+                "short_name": "47039",
+                "station_id": "27628642",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.256635,
+                    49.590329
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Michalsk\u00e9 stromo\u0159ad\u00ed",
+                "num_bikes_available": 2,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27628700",
+                    "ios": "https://app.nextbike.net/station?id=27628700",
+                    "web": "https://nxtb.it/p/27628700"
+                },
+                "short_name": "47040",
+                "station_id": "27628700",
+                "vehicle_types_available": [
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.248487,
+                    49.581916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Schweitzerova - Lidl",
+                "num_bikes_available": 1,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27629121",
+                    "ios": "https://app.nextbike.net/station?id=27629121",
+                    "web": "https://nxtb.it/p/27629121"
+                },
+                "short_name": "47042",
+                "station_id": "27629121",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.284509,
+                    49.588921
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Autobusov\u00e9 n\u00e1dra\u017e\u00ed - podchod",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27629326",
+                    "ios": "https://app.nextbike.net/station?id=27629326",
+                    "web": "https://nxtb.it/p/27629326"
+                },
+                "short_name": "47043",
+                "station_id": "27629326",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.236975,
+                    49.601765
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Na Trati",
+                "num_bikes_available": 3,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27629377",
+                    "ios": "https://app.nextbike.net/station?id=27629377",
+                    "web": "https://nxtb.it/p/27629377"
+                },
+                "short_name": "47044",
+                "station_id": "27629377",
+                "vehicle_types_available": [
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.263926,
+                    49.596804
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "N\u00e1b\u0159e\u017e\u00ed Premyslovc\u016f",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27641185",
+                    "ios": "https://app.nextbike.net/station?id=27641185",
+                    "web": "https://nxtb.it/p/27641185"
+                },
+                "short_name": "47049",
+                "station_id": "27641185",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.272933,
+                    49.598949
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Obchodn\u00ed d\u016fm Senimo",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27641272",
+                    "ios": "https://app.nextbike.net/station?id=27641272",
+                    "web": "https://nxtb.it/p/27641272"
+                },
+                "short_name": "47051",
+                "station_id": "27641272",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.265374,
+                    49.595834
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Pedagogick\u00e1 fakulta UPOL",
+                "num_bikes_available": 4,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27641338",
+                    "ios": "https://app.nextbike.net/station?id=27641338",
+                    "web": "https://nxtb.it/p/27641338"
+                },
+                "short_name": "47050",
+                "station_id": "27641338",
+                "vehicle_types_available": [
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.253765,
+                    49.58907
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "T\u0159\u00edda Svobody - na rohu",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27641474",
+                    "ios": "https://app.nextbike.net/station?id=27641474",
+                    "web": "https://nxtb.it/p/27641474"
+                },
+                "short_name": "47053",
+                "station_id": "27641474",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.24139,
+                    49.594565
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Nadra\u017e\u00ed m\u011bsto - Bo\u017eeny N\u011bmcov\u00e9",
+                "num_bikes_available": 2,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27641631",
+                    "ios": "https://app.nextbike.net/station?id=27641631",
+                    "web": "https://nxtb.it/p/27641631"
+                },
+                "short_name": "47055",
+                "station_id": "27641631",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.243637,
+                    49.59453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "\u010cechovy sady - d\u011btsk\u00e9 h\u0159i\u0161t\u011b",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27641708",
+                    "ios": "https://app.nextbike.net/station?id=27641708",
+                    "web": "https://nxtb.it/p/27641708"
+                },
+                "short_name": "47056",
+                "station_id": "27641708",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.249925,
+                    49.594092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Horn\u00ed n\u00e1m\u011bst\u00ed/Riegrova",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27642006",
+                    "ios": "https://app.nextbike.net/station?id=27642006",
+                    "web": "https://nxtb.it/p/27642006"
+                },
+                "short_name": "47061",
+                "station_id": "27642006",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.25187,
+                    49.59381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Horn\u00ed n\u00e1m\u011bst\u00ed - Caesarova ka\u0161na",
+                "num_bikes_available": 1,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27642009",
+                    "ios": "https://app.nextbike.net/station?id=27642009",
+                    "web": "https://nxtb.it/p/27642009"
+                },
+                "short_name": "47062",
+                "station_id": "27642009",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.242377,
+                    49.578477
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "J\u00e1nsk\u00e9ho",
+                "num_bikes_available": 3,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27651680",
+                    "ios": "https://app.nextbike.net/station?id=27651680",
+                    "web": "https://nxtb.it/p/27651680"
+                },
+                "short_name": "47066",
+                "station_id": "27651680",
+                "vehicle_types_available": [
+                    {
+                        "count": 3,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.249549,
+                    49.579468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Hole\u010dkova",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27651762",
+                    "ios": "https://app.nextbike.net/station?id=27651762",
+                    "web": "https://nxtb.it/p/27651762"
+                },
+                "short_name": "47068",
+                "station_id": "27651762",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.235489,
+                    49.58666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "L\u00e9ka\u0159sk\u00e1 fakulta UPOL",
+                "num_bikes_available": 1,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27661572",
+                    "ios": "https://app.nextbike.net/station?id=27661572",
+                    "web": "https://nxtb.it/p/27661572"
+                },
+                "short_name": "47078",
+                "station_id": "27661572",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.233842,
+                    49.591098
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Dobnerova - Billa",
+                "num_bikes_available": 4,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27661638",
+                    "ios": "https://app.nextbike.net/station?id=27661638",
+                    "web": "https://nxtb.it/p/27661638"
+                },
+                "short_name": "47080",
+                "station_id": "27661638",
+                "vehicle_types_available": [
+                    {
+                        "count": 3,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.260401,
+                    49.595538
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Biskupsk\u00e9 n\u00e1m\u011bst\u00ed - UPOL",
+                "num_bikes_available": 1,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=27872722",
+                    "ios": "https://app.nextbike.net/station?id=27872722",
+                    "web": "https://nxtb.it/p/27872722"
+                },
+                "short_name": "47086",
+                "station_id": "27872722",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "250"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.249887,
+                    49.589272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Smetanovy sady - V\u00edde\u0148sk\u00e1",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=28822383",
+                    "ios": "https://app.nextbike.net/station?id=28822383",
+                    "web": "https://nxtb.it/p/28822383"
+                },
+                "short_name": "47090",
+                "station_id": "28822383",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.257826,
+                    49.601922
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "S\u00eddli\u0161t\u011b Lazce",
+                "num_bikes_available": 2,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=29213335",
+                    "ios": "https://app.nextbike.net/station?id=29213335",
+                    "web": "https://nxtb.it/p/29213335"
+                },
+                "short_name": "47092",
+                "station_id": "29213335",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.254634,
+                    49.589773
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Tr\u017enice",
+                "num_bikes_available": 1,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=29307661",
+                    "ios": "https://app.nextbike.net/station?id=29307661",
+                    "web": "https://nxtb.it/p/29307661"
+                },
+                "short_name": "47095",
+                "station_id": "29307661",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.227222,
+                    49.624004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Pod\u011bbrady",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=29315077",
+                    "ios": "https://app.nextbike.net/station?id=29315077",
+                    "web": "https://nxtb.it/p/29315077"
+                },
+                "short_name": "47097",
+                "station_id": "29315077",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.27055,
+                    49.59445
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Masarykova t\u0159\u00edda - most Byst\u0159i\u010dka",
+                "num_bikes_available": 2,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=29557238",
+                    "ios": "https://app.nextbike.net/station?id=29557238",
+                    "web": "https://nxtb.it/p/29557238"
+                },
+                "short_name": "47098",
+                "station_id": "29557238",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.244249,
+                    49.591338
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Hotel Flora",
+                "num_bikes_available": 1,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=29794125",
+                    "ios": "https://app.nextbike.net/station?id=29794125",
+                    "web": "https://nxtb.it/p/29794125"
+                },
+                "short_name": "47099",
+                "station_id": "29794125",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "250"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.2507,
+                    49.57626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Ro\u017e\u0148avsk\u00e1",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=30005222",
+                    "ios": "https://app.nextbike.net/station?id=30005222",
+                    "web": "https://nxtb.it/p/30005222"
+                },
+                "short_name": "47100",
+                "station_id": "30005222",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.228705,
+                    49.59662
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "T\u0159\u00edda M\u00edru",
+                "num_bikes_available": 4,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=30375307",
+                    "ios": "https://app.nextbike.net/station?id=30375307",
+                    "web": "https://nxtb.it/p/30375307"
+                },
+                "short_name": "47102",
+                "station_id": "30375307",
+                "vehicle_types_available": [
+                    {
+                        "count": 4,
+                        "vehicle_type_id": "250"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.229595,
+                    49.592715
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Obchodn\u00ed d\u016fm Timpo - Lidl",
+                "num_bikes_available": 1,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=30551199",
+                    "ios": "https://app.nextbike.net/station?id=30551199",
+                    "web": "https://nxtb.it/p/30551199"
+                },
+                "short_name": "47105",
+                "station_id": "30551199",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.216437,
+                    49.595501
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Ne\u0159ed\u00edn - krematorium",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=31059892",
+                    "ios": "https://app.nextbike.net/station?id=31059892",
+                    "web": "https://nxtb.it/p/31059892"
+                },
+                "short_name": "47107",
+                "station_id": "31059892",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.28014,
+                    49.57517
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "\u0160lechtitel\u016f - univerzita",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=31149849",
+                    "ios": "https://app.nextbike.net/station?id=31149849",
+                    "web": "https://nxtb.it/p/31149849"
+                },
+                "short_name": "47108",
+                "station_id": "31149849",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.265,
+                    49.5923
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "koleje Gener\u00e1la Svobody",
+                "num_bikes_available": 2,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=31201349",
+                    "ios": "https://app.nextbike.net/station?id=31201349",
+                    "web": "https://nxtb.it/p/31201349"
+                },
+                "short_name": "47110",
+                "station_id": "31201349",
+                "vehicle_types_available": [
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.272442,
+                    49.596186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Kapit\u00e1na N\u00e1lepky I",
+                "num_bikes_available": 1,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=42602005",
+                    "ios": "https://app.nextbike.net/station?id=42602005",
+                    "web": "https://nxtb.it/p/42602005"
+                },
+                "short_name": "47116",
+                "station_id": "42602005",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.270368,
+                    49.577899
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "P\u0159ichystalova",
+                "num_bikes_available": 1,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=42602091",
+                    "ios": "https://app.nextbike.net/station?id=42602091",
+                    "web": "https://nxtb.it/p/42602091"
+                },
+                "short_name": "47119",
+                "station_id": "42602091",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.241368,
+                    49.580717
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Heyrovsk\u00e9ho",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=46000131",
+                    "ios": "https://app.nextbike.net/station?id=46000131",
+                    "web": "https://nxtb.it/p/46000131"
+                },
+                "short_name": "47212",
+                "station_id": "46000131",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.247189,
+                    49.596933
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Legion\u00e1\u0159sk\u00e1",
+                "num_bikes_available": 2,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=72023744",
+                    "ios": "https://app.nextbike.net/station?id=72023744",
+                    "web": "https://nxtb.it/p/72023744"
+                },
+                "short_name": "472138",
+                "station_id": "72023744",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.225018,
+                    49.584341
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Kaufland - Hn\u011bvot\u00ednsk\u00e1 (hlavn\u00ed vchod)",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=73022123",
+                    "ios": "https://app.nextbike.net/station?id=73022123",
+                    "web": "https://nxtb.it/p/73022123"
+                },
+                "short_name": "472139",
+                "station_id": "73022123",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.258872,
+                    49.597458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Ko\u017eelu\u017esk\u00e1 - Long Story Short",
+                "num_bikes_available": 0,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=73023518",
+                    "ios": "https://app.nextbike.net/station?id=73023518",
+                    "web": "https://nxtb.it/p/73023518"
+                },
+                "short_name": "472141",
+                "station_id": "73023518",
+                "vehicle_types_available": []
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.272493,
+                    49.588444
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Kaufland - \u0160tursova",
+                "num_bikes_available": 3,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=74672692",
+                    "ios": "https://app.nextbike.net/station?id=74672692",
+                    "web": "https://nxtb.it/p/74672692"
+                },
+                "short_name": "472341",
+                "station_id": "74672692",
+                "vehicle_types_available": [
+                    {
+                        "count": 3,
+                        "vehicle_type_id": "250"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.27798,
+                    49.59208
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Hlavn\u00ed n\u00e1dra\u017e\u00ed II",
+                "num_bikes_available": 3,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=77724944",
+                    "ios": "https://app.nextbike.net/station?id=77724944",
+                    "web": "https://nxtb.it/p/77724944"
+                },
+                "short_name": "472342",
+                "station_id": "77724944",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.27764,
+                    49.5927
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Hlavn\u00ed n\u00e1dra\u017e\u00ed 1",
+                "num_bikes_available": 3,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=77725224",
+                    "ios": "https://app.nextbike.net/station?id=77725224",
+                    "web": "https://nxtb.it/p/77725224"
+                },
+                "short_name": "472343",
+                "station_id": "77725224",
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "250"
+                    },
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.256094,
+                    49.580553
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774032607,
+                "name": "Infitness",
+                "num_bikes_available": 2,
+                "num_docks_available": 0,
+                "region_id": "663",
+                "rental_uris": {
+                    "android": "https://app.nextbike.net/station?id=92161446",
+                    "ios": "https://app.nextbike.net/station?id=92161446",
+                    "web": "https://nxtb.it/p/92161446"
+                },
+                "short_name": "472348",
+                "station_id": "92161446",
+                "vehicle_types_available": [
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "332"
+                    }
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
