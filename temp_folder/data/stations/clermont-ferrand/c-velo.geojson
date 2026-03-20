@@ -1,0 +1,4738 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    3.08597,
+                    45.77575
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Place Renoux",
+                "altitude": null,
+                "capacity": 24,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": true,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031104,
+                "name": "10 - Ballainvilliers",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 0,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 24,
+                "num_docks_disabled": 0,
+                "obcn": "10",
+                "physical_configuration": "ELECTRICBIKESTATION",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "10",
+                "station_id": "10",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 24,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 0,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.09891,
+                    45.77799
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "32 Avenue de lUnion Sovi\u00e9tique",
+                "altitude": 0.0,
+                "capacity": 24,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031165,
+                "name": "11A - Gare - Terminal routier",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 11,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 13,
+                "num_docks_disabled": 0,
+                "obcn": "11A",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "11A",
+                "station_id": "11",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 13,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 11,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.111834,
+                    45.790756
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "18-20 Rue Debay Facy",
+                "altitude": 0.0,
+                "capacity": 24,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031258,
+                "name": "12 - Montferrand",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 15,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 3,
+                "num_docks_disabled": 4,
+                "obcn": "12",
+                "physical_configuration": "REGULAR",
+                "post_code": "63100",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "12",
+                "station_id": "12",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 3,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 15,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.099456,
+                    45.787376
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "1er Mai",
+                "altitude": 0.0,
+                "capacity": 24,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031158,
+                "name": "13 - 1er mai",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 6,
+                "num_bikes_disabled": 2,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 15,
+                "num_docks_disabled": 1,
+                "obcn": "13",
+                "physical_configuration": "REGULAR",
+                "post_code": "63100",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "13",
+                "station_id": "13",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 15,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 6,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.094552,
+                    45.782483
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "12 Place des Carmes Dechaux",
+                "altitude": 0.0,
+                "capacity": 24,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031260,
+                "name": "14 - Les Carmes",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 6,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 15,
+                "num_docks_disabled": 2,
+                "obcn": "14",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "14",
+                "station_id": "14",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 15,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 6,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.087015,
+                    45.786381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "29 Rue Cuvier",
+                "altitude": 0.0,
+                "capacity": 32,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031212,
+                "name": "15 - Maison des sports",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 6,
+                "num_bikes_disabled": 2,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 23,
+                "num_docks_disabled": 1,
+                "obcn": "15",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "15",
+                "station_id": "15",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 23,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 6,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.075984,
+                    45.781105
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "1 Rue Pierre Besset",
+                "altitude": 0.0,
+                "capacity": 16,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031079,
+                "name": "16 - Fontgi\u00e8ve",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 2,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 13,
+                "num_docks_disabled": 0,
+                "obcn": "16",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "16",
+                "station_id": "16",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 13,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.10927,
+                    45.78609
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "1 Rue Lucie et Raymond Aubrac",
+                "altitude": 0.0,
+                "capacity": 19,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031124,
+                "name": "17 - H\u00f4pital d'Estaing",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 3,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 16,
+                "num_docks_disabled": 0,
+                "obcn": "17",
+                "physical_configuration": "REGULAR",
+                "post_code": "63100",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "17",
+                "station_id": "17",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 16,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 3,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.09244,
+                    45.77088
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "39-29 Boulevard C\u00f4te Blatin",
+                "altitude": 0.0,
+                "capacity": 19,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031249,
+                "name": "18 - C\u00f4te Blatin",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 7,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 11,
+                "num_docks_disabled": 0,
+                "obcn": "18",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "18",
+                "station_id": "18",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 11,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 7,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.093153,
+                    45.774455
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "25-13 Rue dAmboise",
+                "altitude": 0.0,
+                "capacity": 20,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031195,
+                "name": "19 - Amboise",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 6,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 12,
+                "num_docks_disabled": 1,
+                "obcn": "19",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "19",
+                "station_id": "19",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 12,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 6,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.100944,
+                    45.77922
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "46 Avenue de l'Union Sovi\u00e9tique",
+                "altitude": 0.0,
+                "capacity": 32,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031228,
+                "name": "02 - Parvis de la gare",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 21,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 10,
+                "num_docks_disabled": 0,
+                "obcn": "02",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "02",
+                "station_id": "2",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 10,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 21,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.100239,
+                    45.763731
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "9 Boulevard Paul Pochet Lagaye",
+                "altitude": 0.0,
+                "capacity": 24,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031162,
+                "name": "20 - Pochet Lagaye",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 1,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 23,
+                "num_docks_disabled": 0,
+                "obcn": "20",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "20",
+                "station_id": "20",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 23,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.0867282,
+                    45.7645446
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "33-21 Rue Etienne Dolet",
+                "altitude": 0.0,
+                "capacity": 24,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031111,
+                "name": "21 - CROUS / Dolet",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 1,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 22,
+                "num_docks_disabled": 0,
+                "obcn": "21",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "21",
+                "station_id": "21",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 22,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.073871,
+                    45.770958
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "59 Avenue Jean Jaur\u00e8s",
+                "altitude": 0.0,
+                "capacity": 13,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031211,
+                "name": "22 - Jaur\u00e8s",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 1,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 12,
+                "num_docks_disabled": 0,
+                "obcn": "22",
+                "physical_configuration": "REGULAR",
+                "post_code": "63400",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "22",
+                "station_id": "22",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 12,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.0828651,
+                    45.7735895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Boulevard Charles de Gaulle",
+                "altitude": 0.0,
+                "capacity": 31,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031176,
+                "name": "23 - Lagarlaye",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 10,
+                "num_bikes_disabled": 2,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 18,
+                "num_docks_disabled": 1,
+                "obcn": "23",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "23",
+                "station_id": "23",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 18,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 10,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.0924364,
+                    45.7861772
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Boulevard Jean Baptiste Dumas",
+                "altitude": 0.0,
+                "capacity": 19,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031231,
+                "name": "24 - Dumas",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 11,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 6,
+                "num_docks_disabled": 0,
+                "obcn": "24",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "24",
+                "station_id": "24",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 6,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 11,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.087111,
+                    45.782667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "21-19 Rue Henri Barbusse",
+                "altitude": 0.0,
+                "capacity": 20,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031180,
+                "name": "25 - Apollinaire",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 9,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 10,
+                "num_docks_disabled": 1,
+                "obcn": "25",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "25",
+                "station_id": "25",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 10,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 9,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.0802146,
+                    45.7846673
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "2-16 Rue du Clos Notre Dame",
+                "altitude": 0.0,
+                "capacity": 17,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031249,
+                "name": "26 - Clos Notre Dame",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 8,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 8,
+                "num_docks_disabled": 0,
+                "obcn": "26",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "26",
+                "station_id": "26",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 8,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 8,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.071771331078823,
+                    45.77993770936482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Rue Kellermann",
+                "altitude": null,
+                "capacity": 19,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031081,
+                "name": "27 - Berthelot",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 5,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 13,
+                "num_docks_disabled": 1,
+                "obcn": "27",
+                "physical_configuration": "REGULAR",
+                "post_code": "63400",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "27",
+                "station_id": "27",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 13,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 5,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.0751890587897446,
+                    45.776406082668665
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "79-65 Rue Blatin",
+                "altitude": null,
+                "capacity": 16,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031199,
+                "name": "28 - Morel Ladeuil",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 2,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 14,
+                "num_docks_disabled": 0,
+                "obcn": "28",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "28",
+                "station_id": "28",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 14,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 2,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.078104155316672,
+                    45.771778364731055
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "7 rue du 8 mai 1945",
+                "altitude": null,
+                "capacity": 23,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031188,
+                "name": "29 - Regensburg",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 4,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 18,
+                "num_docks_disabled": 0,
+                "obcn": "29",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "29",
+                "station_id": "29",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 18,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 4,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.0901719,
+                    45.7716221
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "1 Cours Raymond Poincar\u00e9",
+                "altitude": 0.0,
+                "capacity": 31,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031247,
+                "name": "03 UCA - Campus Centre",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 10,
+                "num_bikes_disabled": 2,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 18,
+                "num_docks_disabled": 1,
+                "obcn": "03",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "03",
+                "station_id": "3",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 18,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 10,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.08374,
+                    45.76916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "14 rue Pierre de Coubertin",
+                "altitude": 0.0,
+                "capacity": 20,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031228,
+                "name": "30 - Coubertin",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 4,
+                "num_bikes_disabled": 3,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 11,
+                "num_docks_disabled": 2,
+                "obcn": "30",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "30",
+                "station_id": "30",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 11,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 4,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.08404,
+                    45.76381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "24 Rue Poncillon",
+                "altitude": null,
+                "capacity": 18,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031191,
+                "name": "31 - Poncillon",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 11,
+                "num_bikes_disabled": 2,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 3,
+                "num_docks_disabled": 2,
+                "obcn": "31",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "31",
+                "station_id": "31",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 3,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 11,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.09343,
+                    45.76492
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "57-45 Rue Alexandre Ribot",
+                "altitude": 0.0,
+                "capacity": 16,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031151,
+                "name": "32 - Liondards",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 0,
+                "num_bikes_disabled": 2,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 13,
+                "num_docks_disabled": 1,
+                "obcn": "32",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "32",
+                "station_id": "32",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 13,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 0,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.1055338,
+                    45.7679529
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "145 Boulevard Lafayette",
+                "altitude": 0.0,
+                "capacity": 20,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031138,
+                "name": "33 - La Fayette",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 4,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 16,
+                "num_docks_disabled": 0,
+                "obcn": "33",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "33",
+                "station_id": "33",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 16,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 4,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.1010334,
+                    45.7849029
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "42 Avenue de la R\u00e9publique",
+                "altitude": 0.0,
+                "capacity": 32,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031158,
+                "name": "34 - R\u00e9publique",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 19,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 10,
+                "num_docks_disabled": 2,
+                "obcn": "34",
+                "physical_configuration": "REGULAR",
+                "post_code": "63100",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "34",
+                "station_id": "34",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 10,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 19,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.1044574,
+                    45.7895095
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "39-35 Rue du Clos Four",
+                "altitude": 0.0,
+                "capacity": 44,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031199,
+                "name": "35 - Cataroux",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 13,
+                "num_bikes_disabled": 2,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 29,
+                "num_docks_disabled": 0,
+                "obcn": "35",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "35",
+                "station_id": "35",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 29,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 13,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.109389,
+                    45.79345
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "7 Place de la Rodade",
+                "altitude": 0.0,
+                "capacity": 16,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031119,
+                "name": "36 - Rodade",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 6,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 7,
+                "num_docks_disabled": 2,
+                "obcn": "36",
+                "physical_configuration": "REGULAR",
+                "post_code": "63100",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "36",
+                "station_id": "36",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 7,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 6,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.117223,
+                    45.794027
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Place Louis Deteix",
+                "altitude": 0.0,
+                "capacity": 20,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031166,
+                "name": "37 - Mus\u00e9e d'art Roger Quilliot",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 10,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 7,
+                "num_docks_disabled": 2,
+                "obcn": "37",
+                "physical_configuration": "REGULAR",
+                "post_code": "63100",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "37",
+                "station_id": "37",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 7,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 10,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.097009238557824,
+                    45.77615349293115
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "38 Avenue des Paulines",
+                "altitude": null,
+                "capacity": 20,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031249,
+                "name": "38 - Les Paulines",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 10,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 9,
+                "num_docks_disabled": 1,
+                "obcn": "38",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "38",
+                "station_id": "38",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 9,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 10,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.106752,
+                    45.770283
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "105-111 Rue de lOradou",
+                "altitude": 0.0,
+                "capacity": 16,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031076,
+                "name": "39 - Oradou",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 1,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 14,
+                "num_docks_disabled": 0,
+                "obcn": "39",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "39",
+                "station_id": "39",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 14,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.1133168,
+                    45.7588314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "26 Avenue Blaise Pascal",
+                "altitude": 0.0,
+                "capacity": 30,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031200,
+                "name": "04 UCA - Campus C\u00e9zeaux",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 17,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 13,
+                "num_docks_disabled": 0,
+                "obcn": "04",
+                "physical_configuration": "REGULAR",
+                "post_code": "63170",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "04",
+                "station_id": "4",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 13,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 17,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.101163,
+                    45.777594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "72 Avenue des Paulines",
+                "altitude": 0.0,
+                "capacity": 24,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031244,
+                "name": "40 - Parking Gare",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 10,
+                "num_bikes_disabled": 2,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 12,
+                "num_docks_disabled": 0,
+                "obcn": "40",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "40",
+                "station_id": "40",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 12,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 10,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.109198,
+                    45.7613789
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "2 Avenue Blaise Pascal",
+                "altitude": 0.0,
+                "capacity": 24,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031181,
+                "name": "41 - C\u00e9zeaux Pellez",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 13,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 11,
+                "num_docks_disabled": 0,
+                "obcn": "41",
+                "physical_configuration": "REGULAR",
+                "post_code": "63170",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "41",
+                "station_id": "41",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 11,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 13,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.113679,
+                    45.798403
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "349 Rue de la Fontaine de la Ratte",
+                "altitude": 0.0,
+                "capacity": 24,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031095,
+                "name": "42 - Les pistes",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 17,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 5,
+                "num_docks_disabled": 0,
+                "obcn": "42",
+                "physical_configuration": "REGULAR",
+                "post_code": "63100",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "42",
+                "station_id": "42",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 5,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 17,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.117123,
+                    45.789433
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "2-10 Rue des Gravanches",
+                "altitude": 0.0,
+                "capacity": 20,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031198,
+                "name": "43 - Chandiots",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 8,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 11,
+                "num_docks_disabled": 0,
+                "obcn": "43",
+                "physical_configuration": "REGULAR",
+                "post_code": "63100",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "43",
+                "station_id": "43",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 11,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 8,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.112,
+                    45.78693
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "39 Rue du Ressort",
+                "altitude": 0.0,
+                "capacity": 40,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031209,
+                "name": "44 - Braga",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 3,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 36,
+                "num_docks_disabled": 0,
+                "obcn": "44",
+                "physical_configuration": "REGULAR",
+                "post_code": "63100",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "44",
+                "station_id": "44",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 36,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 3,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.108504,
+                    45.779401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "12 Rue Agrippa dAubign\u00e9",
+                "altitude": 0.0,
+                "capacity": 20,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774015754,
+                "name": "45 - Trois coquins",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 9,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 6,
+                "num_docks_disabled": 1,
+                "obcn": "45",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "45",
+                "station_id": "45",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 6,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 9,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.107972,
+                    45.777646
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "110 Rue de Cournon",
+                "altitude": 0.0,
+                "capacity": 17,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031182,
+                "name": "46 - Musset",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 15,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 2,
+                "num_docks_disabled": 0,
+                "obcn": "46",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "46",
+                "station_id": "46",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 2,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 15,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.089722,
+                    45.777444
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "15 Place Michel de lHospital",
+                "altitude": 0.0,
+                "capacity": 24,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031170,
+                "name": "47 - Carnot",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 9,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 15,
+                "num_docks_disabled": 0,
+                "obcn": "47",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "47",
+                "station_id": "47",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 15,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 9,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.066813,
+                    45.779035
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "10 Avenue Voltaire",
+                "altitude": 0.0,
+                "capacity": 19,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031161,
+                "name": "48 - Voltaire",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 11,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 7,
+                "num_docks_disabled": 0,
+                "obcn": "48",
+                "physical_configuration": "REGULAR",
+                "post_code": "63400",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "48",
+                "station_id": "48",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 7,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 11,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.072704,
+                    45.782552
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "7 Rue de Nohanent",
+                "altitude": 0.0,
+                "capacity": 20,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031144,
+                "name": "49 - Galaxie",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 7,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 13,
+                "num_docks_disabled": 0,
+                "obcn": "49",
+                "physical_configuration": "REGULAR",
+                "post_code": "63100",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "49",
+                "station_id": "49",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 13,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 7,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.0834568,
+                    45.7715819
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Boulevard Charles de Gaulle",
+                "altitude": 0.0,
+                "capacity": 32,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031222,
+                "name": "05 - Salins",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 6,
+                "num_bikes_disabled": 2,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 24,
+                "num_docks_disabled": 0,
+                "obcn": "05",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "05",
+                "station_id": "5",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 24,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 6,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.107287,
+                    45.80243
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "154 Rue sous les Vignes",
+                "altitude": 0.0,
+                "capacity": 16,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031125,
+                "name": "50 - Sabourin",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 5,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 8,
+                "num_docks_disabled": 3,
+                "obcn": "50",
+                "physical_configuration": "REGULAR",
+                "post_code": "63100",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "50",
+                "station_id": "50",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 8,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 5,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.078934,
+                    45.788487
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "22-32 Rue Montjuzet",
+                "altitude": 0.0,
+                "capacity": 16,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": false,
+                "is_returning": false,
+                "is_virtual_station": false,
+                "last_reported": 1768678627,
+                "name": "51 - Montjuzet",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 0,
+                "num_bikes_disabled": 9,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 3,
+                "num_docks_disabled": 0,
+                "obcn": "51",
+                "physical_configuration": "REGULAR",
+                "post_code": "63100",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "51",
+                "station_id": "51",
+                "status": "MAINTENANCE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 3,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 4,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.079362,
+                    45.792281
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "75 Rue Ch\u00e2teaubriand",
+                "altitude": 0.0,
+                "capacity": 19,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031126,
+                "name": "52 - La Glaci\u00e8re",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 6,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 13,
+                "num_docks_disabled": 0,
+                "obcn": "52",
+                "physical_configuration": "REGULAR",
+                "post_code": "63100",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "52",
+                "station_id": "52",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 13,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 6,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.092636,
+                    45.782641
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Rue Henri Barbusse",
+                "altitude": 0.0,
+                "capacity": 28,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031199,
+                "name": "53 - Les Carmes - Barbusse",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 3,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 23,
+                "num_docks_disabled": 2,
+                "obcn": "53",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "53",
+                "station_id": "53",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 23,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 3,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.1138475,
+                    45.8116603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "1 Rue Adrien Mabrut",
+                "altitude": 0.0,
+                "capacity": 15,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031261,
+                "name": "54 - La Plaine",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 5,
+                "num_bikes_disabled": 5,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 3,
+                "num_docks_disabled": 2,
+                "obcn": "54",
+                "physical_configuration": "REGULAR",
+                "post_code": "63100",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "54",
+                "station_id": "54",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 3,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 5,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.119468,
+                    45.80775
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "66 Rue Viviani",
+                "altitude": 0.0,
+                "capacity": 20,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031249,
+                "name": "55 - Viviani",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 7,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 11,
+                "num_docks_disabled": 2,
+                "obcn": "55",
+                "physical_configuration": "REGULAR",
+                "post_code": "63100",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "55",
+                "station_id": "55",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 11,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 7,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.107111,
+                    45.808444
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "1 Rue du Sous-Marin Casabianca",
+                "altitude": 0.0,
+                "capacity": 12,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031163,
+                "name": "56 - Coll\u00e8ge Albert Camus",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 6,
+                "num_bikes_disabled": 2,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 3,
+                "num_docks_disabled": 0,
+                "obcn": "56",
+                "physical_configuration": "REGULAR",
+                "post_code": "63100",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "56",
+                "station_id": "56",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 3,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 6,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.107389,
+                    45.811
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Rue du Torpilleur Sirocco",
+                "altitude": 0.0,
+                "capacity": 20,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031181,
+                "name": "57 - Croix de Neyrat",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 7,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 11,
+                "num_docks_disabled": 1,
+                "obcn": "57",
+                "physical_configuration": "REGULAR",
+                "post_code": "63100",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "57",
+                "station_id": "57",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 11,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 7,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.08131,
+                    45.777457
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "6 Place de Jaude",
+                "altitude": 0.0,
+                "capacity": 32,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031117,
+                "name": "01 - Jaude",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 4,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 25,
+                "num_docks_disabled": 2,
+                "obcn": "01",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "01",
+                "station_id": "59",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 25,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 4,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.089667,
+                    45.7615198
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "38 Place Henri Dunant",
+                "altitude": 0.0,
+                "capacity": 32,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031146,
+                "name": "06 - CHU G.Montpied",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 1,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 31,
+                "num_docks_disabled": 0,
+                "obcn": "06",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "06",
+                "station_id": "6",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 31,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.083583,
+                    45.780306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "18-22 Rue Andr\u00e9 Moinier",
+                "altitude": 0.0,
+                "capacity": 12,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031260,
+                "name": "08B - Gaillard",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 0,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 10,
+                "num_docks_disabled": 2,
+                "obcn": "08B",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "08B",
+                "station_id": "60",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 10,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 0,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.09927501817703,
+                    45.778822487625874
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "32 Avenue de l'Union Sovi\u00e9tique",
+                "altitude": null,
+                "capacity": 24,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031185,
+                "name": "11B - Gare - Terminal routier ",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 21,
+                "num_bikes_disabled": 2,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 1,
+                "num_docks_disabled": 0,
+                "obcn": "11B",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "11B",
+                "station_id": "61",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 21,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.116304932053146,
+                    45.7851289968064
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "53 rue du Pre la Reine - Clermont-Ferrand",
+                "altitude": 0.0,
+                "capacity": 19,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031121,
+                "name": "58 - Parc Saint-Jean",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 1,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 18,
+                "num_docks_disabled": 0,
+                "obcn": "58",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "58",
+                "station_id": "64",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 18,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.117885205784656,
+                    45.78226130373415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "1 rue Michel Foucault - Clermont-Ferrand",
+                "altitude": 0.0,
+                "capacity": 19,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031114,
+                "name": "59 - Lyc\u00e9e Gergovie",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 17,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 2,
+                "num_docks_disabled": 0,
+                "obcn": "59",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "59",
+                "station_id": "65",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 2,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 17,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.0896468764125036,
+                    45.765927688153795
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "60 - Parc de la Muraille",
+                "altitude": 0.0,
+                "capacity": 15,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031215,
+                "name": "60 - Parc de la Muraille",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 0,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 15,
+                "num_docks_disabled": 0,
+                "obcn": "60",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "60",
+                "station_id": "66",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 15,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 0,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.0836899771144073,
+                    45.7619287474495
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "16, rue Albert Thomas - 63000",
+                "altitude": 0.0,
+                "capacity": 16,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031149,
+                "name": "61 - Stade Philippe Marcombes",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 4,
+                "num_bikes_disabled": 2,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 10,
+                "num_docks_disabled": 0,
+                "obcn": "61",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "61",
+                "station_id": "67",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 10,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 4,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.080551405986543,
+                    45.75800522120445
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "62 - Les Ormeaux",
+                "altitude": 0.0,
+                "capacity": 16,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031119,
+                "name": "62 - Les Ormeaux",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 0,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 16,
+                "num_docks_disabled": 0,
+                "obcn": "62",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "62",
+                "station_id": "68",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 16,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 0,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.08653379770288,
+                    45.75361313211599
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "63 - Mairie de Beaumont",
+                "altitude": 0.0,
+                "capacity": 16,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031097,
+                "name": "63 - Mairie de Beaumont",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 1,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 15,
+                "num_docks_disabled": 0,
+                "obcn": "63",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "63",
+                "station_id": "69",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 15,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 1,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.09134,
+                    45.780855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Place Delille",
+                "altitude": 0.0,
+                "capacity": 20,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031254,
+                "name": "07 - Delille",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 5,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 14,
+                "num_docks_disabled": 0,
+                "obcn": "07",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "07",
+                "station_id": "7",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 14,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 5,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.1211965733240983,
+                    45.766397127292215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "271 rue de l'Oradou - Clermont-Ferrand",
+                "altitude": 0.0,
+                "capacity": 20,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031249,
+                "name": "64 - Fontaine du Bac",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 8,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 12,
+                "num_docks_disabled": 0,
+                "obcn": "64",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "64",
+                "station_id": "70",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 12,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 8,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.1340628830627444,
+                    45.76658838391269
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "18 rue Jean-Claret - Clermont-ferrand",
+                "altitude": 0.0,
+                "capacity": 20,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031243,
+                "name": "65 - Gare La Pardieu",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 11,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 8,
+                "num_docks_disabled": 0,
+                "obcn": "65",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "65",
+                "station_id": "71",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 8,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 11,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.128494599348972,
+                    45.763367978121764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "66 - Lyc\u00e9e Lafayette",
+                "altitude": 0.0,
+                "capacity": 19,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031089,
+                "name": "66 - Lyc\u00e9e Lafayette",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 11,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 8,
+                "num_docks_disabled": 0,
+                "obcn": "66",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "66",
+                "station_id": "72",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 8,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 11,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.1497566004582462,
+                    45.7564194154056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "67 - Pont de Sarli\u00e8ve",
+                "altitude": 0.0,
+                "capacity": 20,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031250,
+                "name": "67 - Pont de Sarli\u00e8ve",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 17,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 3,
+                "num_docks_disabled": 0,
+                "obcn": "67",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "67",
+                "station_id": "73",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 3,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 17,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.171670704856487,
+                    45.744721540336286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "68 - Le Grand Mail",
+                "altitude": 0.0,
+                "capacity": 16,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031107,
+                "name": "68 - Le Grand Mail",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 9,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 7,
+                "num_docks_disabled": 0,
+                "obcn": "68",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "68",
+                "station_id": "74",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 7,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 9,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.1776232699484166,
+                    45.74441401958403
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "69 - La Po\u00eblade ",
+                "altitude": 0.0,
+                "capacity": 15,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031202,
+                "name": "69 - La Po\u00eblade ",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 6,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 9,
+                "num_docks_disabled": 0,
+                "obcn": "69",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "69",
+                "station_id": "75",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 9,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 6,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.168850346114996,
+                    45.73857391686516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "70 - Gare de Cournon-d'Auvergne",
+                "altitude": 0.0,
+                "capacity": 19,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031124,
+                "name": "70 - Gare de Cournon-d'Auvergne",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 7,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 12,
+                "num_docks_disabled": 0,
+                "obcn": "70",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "70",
+                "station_id": "76",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 12,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 7,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.1883071403995475,
+                    45.73919545036062
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "71 - Pervenches",
+                "altitude": 0.0,
+                "capacity": 16,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031094,
+                "name": "71 - Pervenches",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 10,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 4,
+                "num_docks_disabled": 0,
+                "obcn": "71",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "71",
+                "station_id": "77",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 4,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 10,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.190542459700372,
+                    45.7301152370717
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "72 - La Coloc' de la culture",
+                "altitude": 0.0,
+                "capacity": 19,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031083,
+                "name": "72 - La Coloc' de la culture",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 11,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 8,
+                "num_docks_disabled": 0,
+                "obcn": "72",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "72",
+                "station_id": "78",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 8,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 11,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.2022701327479006,
+                    45.731110413215646
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "73 - Espace Ariccia",
+                "altitude": 0.0,
+                "capacity": 19,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031181,
+                "name": "73 - Espace Ariccia",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 8,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 11,
+                "num_docks_disabled": 0,
+                "obcn": "73",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "73",
+                "station_id": "79",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 11,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 8,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.083758,
+                    45.780268
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "29 Rue Saint-H\u00e9rem",
+                "altitude": 0.0,
+                "capacity": 15,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031147,
+                "name": "08A - Gaillard",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 0,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 14,
+                "num_docks_disabled": 1,
+                "obcn": "08A",
+                "physical_configuration": "REGULAR",
+                "post_code": "63000",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "08A",
+                "station_id": "8",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 14,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 0,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.193619537310198,
+                    45.736713562593295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "74 - Samuel Paty",
+                "altitude": 0.0,
+                "capacity": 16,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031260,
+                "name": "74 - Samuel Paty",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 8,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 8,
+                "num_docks_disabled": 0,
+                "obcn": "74",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "74",
+                "station_id": "80",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 8,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 8,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.195787212964934,
+                    45.738744519773704
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "75 - Place de la R\u00e9publique",
+                "altitude": 0.0,
+                "capacity": 19,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031167,
+                "name": "75 - Place de la R\u00e9publique",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 7,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 12,
+                "num_docks_disabled": 0,
+                "obcn": "75",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "75",
+                "station_id": "81",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 12,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 7,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.2136410096561807,
+                    45.73935875766421
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "76 - Les Toulaits",
+                "altitude": null,
+                "capacity": 15,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031221,
+                "name": "76 - Les Toulaits",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 13,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 2,
+                "num_docks_disabled": 0,
+                "obcn": "76",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "76",
+                "station_id": "82",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 2,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 13,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.2101467903035905,
+                    45.74344686484823
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "77 - Lyc\u00e9e Descartes",
+                "altitude": 0.0,
+                "capacity": 19,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031096,
+                "name": "77 - Lyc\u00e9e Descartes",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 5,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 14,
+                "num_docks_disabled": 0,
+                "obcn": "77",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "77",
+                "station_id": "83",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 14,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 5,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.2171085492029237,
+                    45.73966003261314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "78 - Plan d'eau",
+                "altitude": 0.0,
+                "capacity": 20,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031193,
+                "name": "78 - Plan d'eau",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 16,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 4,
+                "num_docks_disabled": 0,
+                "obcn": "78",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "78",
+                "station_id": "84",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 4,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 16,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.189364934002992,
+                    45.723660020357656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "79 - Gare du Cendre",
+                "altitude": 0.0,
+                "capacity": 16,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031138,
+                "name": "79 - Gare du Cendre",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 11,
+                "num_bikes_disabled": 0,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 5,
+                "num_docks_disabled": 0,
+                "obcn": "79",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "79",
+                "station_id": "85",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 5,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 11,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.188434178471359,
+                    45.71959369085426
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "80 - Verger du Caire",
+                "altitude": 0.0,
+                "capacity": 15,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031253,
+                "name": "80 - Verger du Caire",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 8,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 6,
+                "num_docks_disabled": 0,
+                "obcn": "80",
+                "physical_configuration": "REGULAR",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "80",
+                "station_id": "86",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 6,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 8,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.068945,
+                    45.776106
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "address": "Rue Charles Fournier",
+                "altitude": 0.0,
+                "capacity": 20,
+                "geofenced_capacity": 0,
+                "groups": [],
+                "is_charging_station": false,
+                "is_installed": true,
+                "is_renting": true,
+                "is_returning": true,
+                "is_virtual_station": false,
+                "last_reported": 1774031250,
+                "name": "09 - Chamali\u00e8res Mairie",
+                "nearby_distance": 500.0,
+                "num_bikes_available": 7,
+                "num_bikes_disabled": 1,
+                "num_bikes_overflow": 0,
+                "num_docks_available": 12,
+                "num_docks_disabled": 0,
+                "obcn": "09",
+                "physical_configuration": "REGULAR",
+                "post_code": "63400",
+                "rental_methods": [
+                    "key",
+                    "transitcard",
+                    "creditcard",
+                    "phone"
+                ],
+                "rental_uris": {},
+                "short_name": "09",
+                "station_id": "9",
+                "status": "IN_SERVICE",
+                "traffic": null,
+                "vehicle_docks_available": [
+                    {
+                        "count": 12,
+                        "vehicle_type_ids": [
+                            "ICONIC"
+                        ]
+                    }
+                ],
+                "vehicle_types_available": [
+                    {
+                        "count": 7,
+                        "vehicle_type_id": "ICONIC"
+                    }
+                ]
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
