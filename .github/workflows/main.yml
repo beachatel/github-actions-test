@@ -24,8 +24,6 @@ on: # Remove # below for non default branches
 
 jobs:
   pull-file:
-    paths:
-      - "/data/stations/manchester/**"
     runs-on: ubuntu-latest
     steps:
       - name: Check whether to automatically monitor
