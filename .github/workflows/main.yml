@@ -25,10 +25,9 @@ on: # Remove # below for non default branches
 jobs:
   pull-file:
     runs-on: ubuntu-latest
-    if: github.ref == 'data/stations/manchester'
     steps:
       - name: Check whether to automatically monitor
-        if: ${{ github.event_name != 'workflow_dispatch' && env.AUTOMATIC_MONITOR == false }}
+        if: ${{ github.event_name != 'workflow_dispatch' && env.AUTOMATIC_MONITOR == false && github.ref == 'data/stations/manchester' }}
         run: |
           echo "Set not to run automatically. Exiting."
           echo "exiting1=true" >> $GITHUB_ENV
@@ -38,7 +37,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Checkout source with token and branch
-        if: env.exiting1 != 'true' && env.THE_SECRET != 'default_value' && env.SOURCE_BRANCH
+        if: env.exiting1 != 'true' && env.THE_SECRET != 'default_value' && env.SOURCE_BRANCH && github.ref == 'data/stations/manchester'
         uses: actions/checkout@v3
         with:
           repository: ${{ env.SOURCE_REPO }}
@@ -47,7 +46,7 @@ jobs:
           path: ${{ env.PATH_SOURCE_CHECKOUT }}
 
       - name: Checkout source with token but without branch
-        if: env.exiting1 != 'true' && env.THE_SECRET != 'default_value' && !env.SOURCE_BRANCH
+        if: env.exiting1 != 'true' && env.THE_SECRET != 'default_value' && !env.SOURCE_BRANCH && github.ref == 'data/stations/manchester'
         uses: actions/checkout@v3
         with:
           repository: ${{ env.SOURCE_REPO }}
@@ -55,7 +54,7 @@ jobs:
           path: ${{ env.PATH_SOURCE_CHECKOUT }}
 
       - name: Checkout source without token but with branch
-        if: env.exiting1 != 'true' && env.THE_SECRET == 'default_value' && env.SOURCE_BRANCH
+        if: env.exiting1 != 'true' && env.THE_SECRET == 'default_value' && env.SOURCE_BRANCH && github.ref == 'data/stations/manchester'
         uses: actions/checkout@v3
         with:
           repository: ${{ env.SOURCE_REPO }}
@@ -63,14 +62,14 @@ jobs:
           path: ${{ env.PATH_SOURCE_CHECKOUT }}
 
       - name: Checkout source without token and without branch
-        if: env.exiting1 != 'true' && env.THE_SECRET == 'default_value' && !env.SOURCE_BRANCH
+        if: env.exiting1 != 'true' && env.THE_SECRET == 'default_value' && !env.SOURCE_BRANCH && github.ref == 'data/stations/manchester'
         uses: actions/checkout@v3
         with:
           repository: ${{ env.SOURCE_REPO }}
           path: ${{ env.PATH_SOURCE_CHECKOUT }}
 
       - name: Check for changes
-        if: env.exiting1 != 'true'
+        if: env.exiting1 != 'true' && github.ref == 'data/stations/manchester'
         run: |
           if git diff --quiet; then
             echo "No changes detected. Exiting."
@@ -78,7 +77,7 @@ jobs:
           fi
 
       - name: Commit
-        if: env.exiting1 != 'true' && env.exiting2 != 'true'
+        if: env.exiting1 != 'true' && env.exiting2 != 'true' && github.ref == 'data/stations/manchester'
         run: |
           git config user.name "$USERNAME"
           git config user.email "$USERNAME@$ADDRESS_SUFFIX"
