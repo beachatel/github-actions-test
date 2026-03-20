@@ -1,6 +1,6 @@
 name: Pull Files from Another Repository on Push
 env:
-  SOURCE_REPO: MaxHalford/bike-sharing-history
+  SOURCE_REPO: MaxHalford/bike-sharing-history/data/stations/manchester
   AUTOMATIC_MONITOR: true
   FILES: "*.geojson" # seperate multiple entries with ,
   FILES_NEW: "*.geojson" # seperate multiple entries with ,
